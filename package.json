@@ -1,0 +1,23 @@
+{
+  "name": "little_lemon_receipt_maker",
+  "version": "1.0.0",
+  "description": "-------------------",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikwuka/little_lemon_receipt_maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikwuka/little_lemon_receipt_maker/issues"
+  },
+  "homepage": "https://github.com/ikwuka/little_lemon_receipt_maker#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
