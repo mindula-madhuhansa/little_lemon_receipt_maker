@@ -2,7 +2,7 @@
 
 ----------------------
 
-# Lab Instructions: Little Lemon Receipt Maker
+## Lab Instructions: Little Lemon Receipt Maker
 
 > ### **Tips: Before you Begin**
 >
